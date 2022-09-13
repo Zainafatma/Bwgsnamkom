@@ -1,0 +1,82 @@
+body{
+    background: rgb(174,229,238);
+background: radial-gradient(circle, rgba(174,229,238,1) 0%, rgba(148,233,172,1) 100%);
+color: black;
+text-align: center;
+
+}
+#about{
+    font-size: larger;
+    font-family:monospace;
+    font-variant: small-caps;
+    text-align: center;
+    text-decoration: dotted;
+    color: black;
+}
+#academic{
+    font-size: larger;
+    font-family:monospace;
+    font-variant: small-caps;
+    text-align: center;
+    text-decoration: dotted;
+    color: black;
+}
+#structure{
+    font-size: larger;
+    font-family:monospace;
+    font-variant: small-caps;
+    text-align: center;
+    text-decoration: dotted;
+    color: black;
+}
+#news{
+    font-size: larger;
+    font-family:monospace;
+    font-variant: small-caps;
+    text-align: center;
+    text-decoration: dotted;
+    color: black;
+}
+#contact{
+    font-size: larger;
+    font-family:monospace;
+    font-variant: small-caps;
+    text-align: center;
+    text-decoration: dotted;
+    color: black;
+}
+#school{
+    height: auto;
+    width: auto;
+    border-width: 15px;
+    border-style: double;
+    border-color: black;
+}
+#principal{
+    height: auto;
+    width: auto;
+    border-width: 15px;
+    border-style: double;
+    border-color: black;
+}
+#faculty{
+    height: 350px;;
+    width: 350px;
+    border-width: 15px;
+    border-style: double;
+    border-color: black;
+}
+.class{
+    height: auto;
+    width: auto;
+    border-width: 15px;
+    border-style: double;
+    border-color: black;
+}
+a{
+    color:red;
+    font-size: x-large;
+}
+#menu{
+    position: fixed;
+}
